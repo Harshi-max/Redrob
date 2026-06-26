@@ -48,3 +48,11 @@ To run the Streamlit validation sandbox:
 ```bash
 streamlit run app.py
 ```
+<img width="1910" height="720" alt="Screenshot 2026-06-26 134450" src="https://github.com/user-attachments/assets/83951b7c-ac59-45c7-8ad5-af64312c57c0" />
+<img width="1903" height="848" alt="Screenshot 2026-06-26 134433" src="https://github.com/user-attachments/assets/2a59bc5d-8c24-46a9-a11d-0d48a474df95" />
+<img width="1305" height="685" alt="Screenshot 2026-06-26 160244" src="https://github.com/user-attachments/assets/64146a04-bdba-4a8f-bde0-146dbe1a0a06" />
+<img width="1085" height="748" alt="Screenshot 2026-06-26 160237" src="https://github.com/user-attachments/assets/f9236c27-6831-4748-bcd1-623e747d0bfa" />
+<img width="1276" height="724" alt="Screenshot 2026-06-26 160231" src="https://github.com/user-attachments/assets/3c8697a2-b103-4273-81da-96b5829859f3" />
+<img width="1394" height="742" alt="Screenshot 2026-06-26 160224" src="https://github.com/user-attachments/assets/f28cc0a5-af2a-4580-a092-c9605c1ca93d" />
+<img width="1276" height="749" alt="Screenshot 2026-06-26 160211" src="https://github.com/user-attachments/assets/0d95a876-93dd-4872-a22a-bd2de2d0a28f" />
+<img width="1877" height="668" alt="Screenshot 2026-06-26 160202" src="https://github.com/user-attachments/assets/4d628203-5e14-4346-8397-77c65757f553" />
