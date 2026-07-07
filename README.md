@@ -1,6 +1,6 @@
 # Intelligent Candidate Discovery & Ranking Solution
 
-This repository contains the candidate ranking and discovery system built for the **Redrob Hackathon**. The system ranks **100,000 candidates** against a **Senior AI Engineer** job description, filters out honeypots (impossible profiles), generates **LLM-powered recruiter reasoning**, and returns the **Top 100 candidates** while satisfying strict runtime and compute constraints.
+This repository contains the candidate ranking and discovery system . The system ranks **100,000 candidates** against a **Senior AI Engineer** job description, filters out honeypots (impossible profiles), generates **LLM-powered recruiter reasoning**, and returns the **Top 100 candidates** while satisfying strict runtime and compute constraints.
 
 ## 🚀 Overview
 
